@@ -3,7 +3,7 @@
 # Học Viện Hàng Không Việt Nam
 # Khoa Công Nghệ Thông Tin
 ## Nhóm 9: 
-- **Nhóm trưởng: Huỳnh Dương Phong - 2254810051
+- **Huỳnh Dương Phong - 2254810051 (Trưởng nhóm)
 - **Khổng Thị Huyền Trang - 2254810207
 - **Lê Khánh Đạt - 2254810033
 - **Nguyễn Đình Tùng - 2254810039
